@@ -1,5 +1,5 @@
 # Reaction-Diffusion-in-Protocells
-Reaction-diffusion numerical model for non-Fickian diffusion and sharp signaling fronts in all-DNA protocells
+Reaction-diffusion numerical model for non-Fickian diffusion and sharp signaling fronts in all-DNA condensates
 
 ## System Requirements
 The code was tested on\
